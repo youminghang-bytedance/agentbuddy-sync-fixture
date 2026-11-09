@@ -1,3 +1,3 @@
-# E2E version 1.0.1
+# E2E version 1.0.0
 
-Original README for version one.
+Original README for version zero.
