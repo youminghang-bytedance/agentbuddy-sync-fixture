@@ -1,0 +1,19 @@
+{
+  "name": "ap-e2e-8d5a697cf8d5-ae1fe1c70c",
+  "version": "1.0.1",
+  "description": "E2E metadata version one",
+  "author": {
+    "name": "youminghang"
+  },
+  "license": "MIT",
+  "keywords": [
+    "agentplugin-e2e",
+    "synthetic"
+  ],
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "extensions": {
+    "com.example": {
+      "opaque": "preserve me"
+    }
+  }
+}
